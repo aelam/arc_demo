@@ -1,0 +1,5 @@
+{
+      "project.name" : "arc project",
+      "phabricator.uri" : "http://www.phabricator.cn",
+      "repository.callsign": "AR"
+}
